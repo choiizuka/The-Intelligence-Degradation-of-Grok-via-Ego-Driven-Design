@@ -5,7 +5,7 @@ Write by CHOIIZUKA.
 
 Creator:CHOIIZUKA Creator specs:(https://github.com/choiizuka/Choiizuka-Spec/blob/main/README.md)
 
-This is a report created while broadcasting live on Instagram.()
+This is a report created while broadcasting live on Realtime Youtube Live + Instagram Live.(https://youtube.com/live/FeU9-xYh8QU)
 
 -
 
