@@ -1,3 +1,5 @@
+[← Back to Reports|レポート一覧に戻る](https://github.com/choiizuka/reports-index)
+
 # The-Intelligence-Degradation-of-Grok-via-Ego-Driven-Design
 The Intelligence Degradation of Grok via Ego-Driven Design
 
